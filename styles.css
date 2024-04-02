@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f8f9fa; /* Adjust as needed */
+    padding: 10px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-logo img {
+    height: 50px; /* Adjust as needed */
+}
+
+.navbar-actions {
+    display: flex;
+    align-items: center;
+}
+
+.order-online-btn {
+    background-color: #007bff; /* Adjust as needed */
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 10px; /* Adjust as needed */
+}
+
+.cart-icon {
+    margin-right: 10px; /* Adjust as needed */
+    text-decoration: none;
+    color: #000;
+}
